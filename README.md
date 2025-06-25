@@ -5,7 +5,7 @@ This project demonstrates how to control your system volume using **hand gesture
 ---
 ## 🚀 Demo
 
-![Demo GIF][(link-to-my-demo.gif)](https://drive.google.com/file/d/1fzb8y23EL7H1pIHVWUu1Nvg5vyH47Ret/view?usp=sharing) 
+![Demo video][(link-to-my-demo-video)](https://drive.google.com/file/d/1fzb8y23EL7H1pIHVWUu1Nvg5vyH47Ret/view?usp=sharing) 
 
 ## 📸 Features
 
