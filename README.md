@@ -3,6 +3,9 @@
 This project demonstrates how to control your system volume using **hand gestures** via **webcam input**. It uses **MediaPipe** to detect hand landmarks, **OpenCV** for image processing, and **pycaw** to control the system audio volume.
 
 ---
+## 🚀 Demo
+
+![Demo GIF](link-to-your-demo.gif)https://drive.google.com/file/d/1fzb8y23EL7H1pIHVWUu1Nvg5vyH47Ret/view?usp=sharing <!-- Optional: Add demo video or gif if available -->
 
 ## 📸 Features
 
@@ -13,6 +16,7 @@ This project demonstrates how to control your system volume using **hand gesture
 - Real-time webcam-based gesture control
 
 ---
+
 
 ## 🛠️ Technologies Used
 
